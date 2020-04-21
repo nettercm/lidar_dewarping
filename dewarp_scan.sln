@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "dewarp_scan", "dewarp_scan.pyproj", "{0CCA5735-CF2B-4BF6-B551-1EFAE2213BB3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0CCA5735-CF2B-4BF6-B551-1EFAE2213BB3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0CCA5735-CF2B-4BF6-B551-1EFAE2213BB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7B2031E-0C4D-4BE1-8806-8BBCD8AC0352}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7B2031E-0C4D-4BE1-8806-8BBCD8AC0352}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {81E51656-0EF5-4AF7-8FD8-878539A1F797}
+	EndGlobalSection
+EndGlobal

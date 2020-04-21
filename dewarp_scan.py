@@ -1,5 +1,6 @@
 #!/usr/bin/env python2
 
+print("starging dwarp_scan.py");
 
 import time, signal, sys, threading, math, os, copy
 from math import cos,sin,pi
