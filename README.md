@@ -25,3 +25,10 @@ Granted, the above example of continuously turning in place is a bit of an extre
 How to de-warp?
 
 The basic idea is to look at the robot's motion, i.e. pose as a function of time, and use this information to de-warp the warped "image".
+
+
+Current status:
+
+I did get this to work.  Below is a picture that shows the de-warped (white) and orignal (yellow) scan.   However, performance of gmapping did not improve as much as I hoped.  Maybe I just didn't tune gmapping well enough.....
+
+![Dewarped and original data](https://github.com/nettercm/lidar_dewarping/blob/master/dewarped-with-motion-1a.png)
