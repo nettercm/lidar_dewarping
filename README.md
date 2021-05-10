@@ -32,3 +32,4 @@ Current status:
 I did get this to work.  Below is a picture that shows the de-warped (white) and orignal (yellow) scan.   However, performance of gmapping did not improve as much as I hoped.  Maybe I just didn't tune gmapping well enough.....
 
 ![Dewarped and original data](https://github.com/nettercm/lidar_dewarping/blob/master/dewarped-with-motion-1a.png)
+
